@@ -1,4 +1,4 @@
-# CanLoggerJig
+# CanLogger
 
 PCとCANインタフェースを持ち込めない現場で、単独でCANログを取得するための治具。
 **CAN1(500kbps) / CAN2(250kbps) の2バスを同時に**SDカードへ記録し、
